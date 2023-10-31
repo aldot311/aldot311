@@ -2,7 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Incident Analysis and Response paper](https://drive.google.com/file/d/13iu2rA7jXsoCpEzcbCAbQjRyoVqJZ-dX/view?usp=sharing)
+  - [NMAP and Wireshark Analysis](https://drive.google.com/file/d/1YOSElbea1CQg9S_DMprElfOB2SRlYdoJ/view?usp=sharing)
+  - [Wireless and Mobile Vulnerabilities Management](https://drive.google.com/file/d/1JBGTTyErprnKKeq5Vo1M0hu9XFvcawU2/view?usp=sharing)
+  - [IoT Deployment and Monitoring for AirBnb property()
 
 <h2>👨‍💻 Certifications:</h2>
 
