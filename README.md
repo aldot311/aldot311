@@ -5,12 +5,12 @@
   - [Incident Analysis and Response paper](https://drive.google.com/file/d/13iu2rA7jXsoCpEzcbCAbQjRyoVqJZ-dX/view?usp=sharing)
   - [NMAP and Wireshark Analysis](https://drive.google.com/file/d/1YOSElbea1CQg9S_DMprElfOB2SRlYdoJ/view?usp=sharing)
   - [Wireless and Mobile Vulnerabilities Management](https://drive.google.com/file/d/1JBGTTyErprnKKeq5Vo1M0hu9XFvcawU2/view?usp=sharing)
-  - [IoT Deployment and Monitoring for AirBnb property()
+  - [IoT Deployment and Monitoring for AirBnb property](https://drive.google.com/file/d/1tmjNpcgQGrV5KgAG3-R0EgxC5tkNRMHR/view?usp=sharing)
 
 <h2>👨‍💻 Certifications:</h2>
 
   - [CompTIA (A+, Security+, Network+, CySA+, PenTest+, Project+)](https://www.credly.com/users/aldo-tile)
-  - [ISC2: SSCP]
+  - [[Associate of ISC2: SSCP](https://drive.google.com/file/d/1tlH3bQxfSS8q5EPisOAwBuPghRqX4lg_/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
