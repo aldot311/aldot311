@@ -2,10 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Azure Sentinel SIEM project](https://github.com/aldot311/Azure-Sentinel-Lab)
   - [Incident Analysis and Response paper](https://drive.google.com/file/d/13iu2rA7jXsoCpEzcbCAbQjRyoVqJZ-dX/view?usp=sharing)
   - [NMAP and Wireshark Analysis](https://drive.google.com/file/d/1YOSElbea1CQg9S_DMprElfOB2SRlYdoJ/view?usp=sharing)
   - [Wireless and Mobile Vulnerabilities Management](https://drive.google.com/file/d/1JBGTTyErprnKKeq5Vo1M0hu9XFvcawU2/view?usp=sharing)
   - [IoT Deployment and Monitoring for AirBnb property](https://drive.google.com/file/d/1tmjNpcgQGrV5KgAG3-R0EgxC5tkNRMHR/view?usp=sharing)
+  
 
 <h2>👨‍💻 Certifications:</h2>
 
