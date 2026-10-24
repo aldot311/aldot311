@@ -1,36 +1,26 @@
-<h1>Hi, I'm Aldo! <br/><a href="https://www.linkedin.com/in/aldo-tile-04aa0a294/">Cybersecurity Professional</a> </h1>
+# Hi, I'm Aldo — founder of [Aetrai](https://aetrai.com)
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+I build AI agents that run real businesses: phone lines, text assistants and lead pipelines in production for local
+service companies, and now computer-vision products on Meta's models.
 
-  - [Azure Sentinel SIEM project](https://github.com/aldot311/Azure-Sentinel-Lab)
-  - [Incident Analysis and Response paper](https://drive.google.com/file/d/13iu2rA7jXsoCpEzcbCAbQjRyoVqJZ-dX/view?usp=sharing)
-  - [NMAP and Wireshark Analysis](https://drive.google.com/file/d/1YOSElbea1CQg9S_DMprElfOB2SRlYdoJ/view?usp=sharing)
-  - [Wireless and Mobile Vulnerabilities Management](https://drive.google.com/file/d/1JBGTTyErprnKKeq5Vo1M0hu9XFvcawU2/view?usp=sharing)
-  - [IoT Deployment and Monitoring for AirBnb property](https://drive.google.com/file/d/1tmjNpcgQGrV5KgAG3-R0EgxC5tkNRMHR/view?usp=sharing)
-  
+### Building now
+- **Screen-Time** — measures every second a brand is actually on screen in creator video, using SAM 3.1 video
+  tracking and Muse Spark scoring (Meta Global AI Developer Hackathon, Oct–Nov 2026).
 
-<h2>👨‍💻 Certifications:</h2>
+### Shipped
+- **AI lead engine for Perfect Pear Junk Removal** (live) — SMS assistant with guardrails and a spend cap, AI voice
+  line, consent-aware follow-up scheduler, Postgres with row-level security; 2,249 automated tests.
+- **Aetrai's own AI voice and chat agent**, feeding a multi-tenant client portal and lead pipeline (Next.js, Supabase,
+  Retell, Twilio, Stripe).
 
-  - [CompTIA (A+, Security+, Network+, CySA+, PenTest+, Project+)](https://www.credly.com/users/aldo-tile)
-  - [Associate of ISC2: SSCP](https://drive.google.com/file/d/1tlH3bQxfSS8q5EPisOAwBuPghRqX4lg_/view?usp=sharing)
+Client code is private; happy to walk through it.
 
-<h2> 🤳 Connect with me:</h2>
+### How I build
+TypeScript, Node.js, Next.js, Postgres/Supabase, Twilio, Retell; Claude, Muse Spark, SAM; test-first, with
+coordinated AI coding agents under my review.
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Security background
+CompTIA A+, Network+, Security+, CySA+, PenTest+, Project+ · ISC2 SSCP associate ·
+[Azure Sentinel SIEM lab](https://github.com/aldot311/Azure-Sentinel-Lab)
 
-[linkedin]: https://www.linkedin.com/in/aldo-tile-04aa0a294/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/aldo-tile-04aa0a294/) · [X](https://x.com/AlldoTIle) · [aetrai.com](https://aetrai.com)
